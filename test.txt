@@ -1,2 +1,2 @@
-Hello Gina
-Bye Gina
+Hello Hello
+Bye Bye
